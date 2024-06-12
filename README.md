@@ -1,16 +1,54 @@
-## Hi there 👋
+### <h1 align="center">Hi there👋, I'm <a>Niraj</a>!</h1>
 
-<!--
-**nirajnkm/nirajnkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring cybersecurity professional with hands-on experience in pentesting, vulnerability assessment, and secure coding. Skilled in using industry-standard tools to enhance web application and network security. Committed to continuous learning and staying updated with the latest cybersecurity trends.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+### # Skills: 
+- Security & tools
+  - Web, API, Network Pentesting
+  - BurpSuite , Zap
+- DevSecOps:
+  - Docker, Git and GitHub
+  - Dast, Sast
+  - Snyk, BurpSuite 
+- Languages
+  - Python, Javascript, Bash
+
+<br/>
+
+---
+
+<div align="center">
+  // Hacker Profile // <br/> <br/>
+  <a href="https://tryhackme.com/p/nirajkm"> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nirajkm.png" alt="TryHackMe">
+  </a>
+</div>
+
+---
+
+
+<!-- --- -->
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/nirajkumarmahto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+<a href="https://nirajkm.medium.com/">
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+
+---
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajnkm&theme=dark&count_private=true" />
+</p>
+
+[//]: # (The End)
+
+---
