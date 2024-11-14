@@ -49,6 +49,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajnkm&theme=dark&count_private=true" />
 </p>
 
-[//]: # (The End)
-
 ---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nirajnkm&label=Profile%20Views&color=12&icon=2&pretty=false" />
+</a>
