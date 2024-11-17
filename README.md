@@ -50,6 +50,10 @@
 </p>
 
 ---
+
+![](https://github-profile-trophy.vercel.app/?username=nirajnkm&theme=onedark&no-frame=true)
+
+---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nirajnkm&label=Profile%20Views&color=12&icon=2&pretty=false" />
 </a>
