@@ -22,13 +22,14 @@
 <br/>
 
 ---
-
 <div align="center">
   // Hacker Profile // <br/> <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/nirajkm.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/p/nirajkm"> 
+      <img src="https://tryhackme-badges.s3.amazonaws.com/nirajkm.png" alt="TryHackMe">
+    </a>
+  </div>
 
 ---
-
 
 <!-- --- -->
 
